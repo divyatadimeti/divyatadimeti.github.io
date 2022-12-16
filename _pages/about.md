@@ -8,9 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>dtadimeti AT berkeley DOT edu</p>
-    <p>[/in/divyatadimeti](https://www.linkedin.com/in/divyatadimeti/)</p>
+<!--   address: >
+    <p>dtadimeti AT berkeley DOT edu</p> -->
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -23,9 +22,9 @@ I’m currently building deep learning models for audio classification as an int
 
 I am also an avid golfer and long-time violinist. In my free time, you’ll find me at the driving range, busking with friends, or trying a new vegetarian sushi restaurant.
 
-Let’s connect! 
-<!-- dtadimeti AT berkeley DOT edu //
-[/in/divyatadimeti](https://www.linkedin.com/in/divyatadimeti/) -->
+Let’s connect!   
+dtadimeti AT berkeley DOT edu  
+[/in/divyatadimeti](https://www.linkedin.com/in/divyatadimeti/)
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
