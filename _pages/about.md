@@ -23,7 +23,7 @@ I’m currently building deep learning models for audio classification as an int
 
 I am also an avid golfer and long-time violinist. In my free time, you’ll find me at the driving range, busking with friends, or trying a new vegetarian sushi restaurant.
 
-Let’s connect! //
+Let’s connect! 
 <!-- dtadimeti AT berkeley DOT edu //
 [/in/divyatadimeti](https://www.linkedin.com/in/divyatadimeti/) -->
 
