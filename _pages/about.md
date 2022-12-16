@@ -28,20 +28,23 @@ dtadimeti AT berkeley DOT edu
 
 ___________________________________________________________________________________________________________________________________________  
 
-### select research
+### select research  
+
 **Discovering Differences in the Representation of People Using Contextualized Semantic Axes.**  
 Li Lucy, Divya Tadimeti, David Bamman  
 *EMNLP 2022*  
 [Paper](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.228/)  
 
-**How is Empathy Conveyed in Spoken Language? An Acoustic-Prosodic Analysis.**
-Divya Tadimeti, Run Chen, Julia Hirschberg
-*Young Female Researchers in Speech Technology Workshop, Interspeech 2022*
+
+**How is Empathy Conveyed in Spoken Language? An Acoustic-Prosodic Analysis.**  
+Divya Tadimeti, Run Chen, Julia Hirschberg  
+*Young Female Researchers in Speech Technology Workshop, Interspeech 2022*  
 [Poster](https://drive.google.com/file/d/1yj1lxqJnd6FYaM-15cKoMsFL3UdUATP5/view)  
 
-**Evaluation of Off-the-shelf Speech Recognizers on Different Accents in a Dialogue Domain.**
-Divya Tadimeti, Kallirroi Georgila, David Traum
-*LREC 2022*
+
+**Evaluation of Off-the-shelf Speech Recognizers on Different Accents in a Dialogue Domain.**  
+Divya Tadimeti, Kallirroi Georgila, David Traum  
+*LREC 2022*  
 [Paper](https://aclanthology.org/2022.lrec-1.645/)  
 
 
