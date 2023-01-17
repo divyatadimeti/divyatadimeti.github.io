@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hi! I’m Divya, a senior at UC Berkeley studying Computer Science and Linguistics. I’m broadly interested in natural and spoken language processing, and I care deeply about the inclusivity and accessibility of language technologies.
 
-I recently interned at [Deepgram](https://deepgram.com/) where I built deep learning models for audio classification. In Spring 2023, I will a TA for Berkeley's [Natural Language Processing course](https://people.ischool.berkeley.edu/~dbamman/nlp23.html). 
+I recently interned at [Deepgram](https://deepgram.com/) where I built deep learning models for audio classification. In Spring 2023, I will be a TA for Berkeley's [Natural Language Processing course](https://people.ischool.berkeley.edu/~dbamman/nlp23.html). 
 
 I am also an avid golfer and long-time violinist. In my free time, you’ll find me at the driving range, busking with friends, or trying a new vegetarian sushi restaurant.
 
