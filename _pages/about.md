@@ -16,14 +16,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I’m Divya, a senior at UC Berkeley studying Computer Science and Linguistics. I’m broadly interested in natural and spoken language processing, and I care deeply about the inclusivity and accessibility of language technologies.
+Hi! I’m Divya, a Master's student at Columbia University studying Computer Science in the Machine Learning track. I just graduated from UC Berkeley where I studied Computer Science and Linguistics. I’m broadly interested in natural and spoken language processing, and I care deeply about the inclusivity and accessibility of language technologies.
 
-I recently interned at [Deepgram](https://deepgram.com/) where I built deep learning models for audio classification. In Spring 2023, I will be a TA for Berkeley's [Natural Language Processing course](https://people.ischool.berkeley.edu/~dbamman/nlp23.html). 
+In Spring 2023, I was a TA for Berkeley's [Natural Language Processing course](https://people.ischool.berkeley.edu/~dbamman/nlp23.html). I recently interned at [Deepgram](https://deepgram.com/) where I built deep learning models for audio classification. 
 
 I am also an avid golfer and long-time violinist. In my free time, you’ll find me at the driving range, busking with friends, or trying a new vegetarian sushi restaurant.
 
 Let’s connect!   
-dtadimeti AT berkeley DOT edu  
+dt2760 AT columbia DOT edu  
 [/in/divyatadimeti](https://www.linkedin.com/in/divyatadimeti/)
 
 ___________________________________________________________________________________________________________________________________________  
