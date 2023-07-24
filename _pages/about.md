@@ -6,10 +6,10 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Screen Shot 2023-07-19 at 7.43.50 PM.png
   image_circular: false # crops the image to make it circular
 <!--   address: >
-    <p>dtadimeti AT berkeley DOT edu</p> -->
+    <p>dt2760 AT columbia DOT edu</p> -->
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
