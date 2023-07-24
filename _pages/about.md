@@ -33,7 +33,7 @@ ________________________________________________________________________________
 **Discovering Differences in the Representation of People Using Contextualized Semantic Axes.**  
 Li Lucy, Divya Tadimeti, David Bamman  
 *EMNLP 2022*  
-[Paper](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.228/)  
+[Paper]([https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.228/](https://aclanthology.org/2022.emnlp-main.228.pdf))  
 
 
 **How is Empathy Conveyed in Spoken Language? An Acoustic-Prosodic Analysis.**  
